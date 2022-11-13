@@ -1,2 +1,3 @@
-# Weathernmc
-更新气象城市ID
+# weathernmc
+
+请自行修改气象城市ID
